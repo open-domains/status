@@ -16,6 +16,8 @@ sites:
     url: https://open-comm.org
   - name: CLA
     url: https://cla-assistant.io/
+  - name: Proxmox
+    url: https://195.154.255.28:8006/
 
 status-website:
   cname: status.open-domains.net
