@@ -16,8 +16,8 @@ sites:
     url: https://open-comm.org
   - name: CLA
     url: https://cla-assistant.io/
-  - name: Proxmox
-    url: https://195.154.255.28:8006/
+  - name: EU Server
+    url: https://core.open-domains.net
 
 status-website:
   cname: status.open-domains.net
