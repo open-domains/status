@@ -18,8 +18,6 @@ sites:
     url: https://cla-assistant.io/
   - name: Proxmox
     url: https://195.154.255.28:8006/
-  - name: US-1
-    url: https://us.open-domains.net
 
 status-website:
   cname: status.open-domains.net
