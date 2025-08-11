@@ -21,7 +21,7 @@ sites:
 
 status-website:
   cname: status.open-domains.net
-  logoUrl: https://raw.githubusercontent.com/open-domains/website/main/static/logo.svg
+  logoUrl: https://raw.githubusercontent.com/open-domains/is-a-fullstack.dev/refs/heads/main/dist/images/logo.png
   name: Open‑Domains
   introTitle: "**Open‑Domains** — free wildcard subdomains for personal & open‑source projects."
   introMessage: Pick a domain (e.g. `yourname.is-cool.dev`) and just start using it—no signup needed. Powered by GitHub Actions & Cloudflare DNS.
