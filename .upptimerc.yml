@@ -17,7 +17,7 @@ sites:
   - name: CLA
     url: https://cla-assistant.io/
   - name: EU Server
-    url: https://core.open-domains.net
+    url: https://systems.open-domains.net
 
 status-website:
   cname: status.open-domains.net
