@@ -112,9 +112,9 @@
     "url": "https://cla-assistant.io/",
     "icon": "https://icons.duckduckgo.com/ip3/cla-assistant.io.ico",
     "slug": "cla",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +123,9 @@
     "timeWeek": 729,
     "timeMonth": 678,
     "timeYear": 678,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-11": 0
+    }
   },
   {
     "name": "EU Server",
@@ -131,11 +133,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/systems.open-domains.net.ico",
     "slug": "eu-server",
     "status": "up",
-    "uptime": "79.10%",
+    "uptime": "79.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.18%",
-    "uptimeYear": "79.10%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "79.51%",
     "time": 1244,
     "timeDay": 655,
     "timeWeek": 561,
